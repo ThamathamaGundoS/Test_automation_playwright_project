@@ -1,0 +1,22 @@
+{
+  "name": "test_automation_playwright_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThamathamaGundoS/Test_automation_playwright_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThamathamaGundoS/Test_automation_playwright_project/issues"
+  },
+  "homepage": "https://github.com/ThamathamaGundoS/Test_automation_playwright_project#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.8.1"
+  }
+}
